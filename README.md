@@ -16,4 +16,4 @@ A simple calendar application that allows a user to save events for each hour of
 
 
 ## Link
-https://bernardjbs.github.io/hw-boot-wk05-Work-Day-Scheduler/
+https://bernardjbs.github.io/hw-boot-wk05-Work-Day-Scheduler-Final/
